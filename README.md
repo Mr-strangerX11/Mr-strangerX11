@@ -1,18 +1,37 @@
-<!-- 🌗 Theme Support -->
-<!-- GitHub automatically adapts this README to light/dark mode -->
+<!-- ===================== BANNER HEADER ===================== -->
 
-<div align="center">
-  <img src="<img width="1080" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/672a507c-2c8d-48cf-a93e-b5a81819184f" />
-" alt="Kashi Logo" width="180"/>
+<div align="center" style="padding: 30px 0;">
+
+  <!-- Logo with glow + rounded + animation -->
+  <img 
+    src="./Untitled%20design.png" 
+    alt="Kashi Logo"
+    width="180"
+    style="
+      border-radius: 50%;
+      box-shadow: 0 0 25px rgba(88,166,255,0.6);
+      animation: float 3s ease-in-out infinite;
+    "
+  />
+
+  <h1>Hi 👋, I'm Kashi Chaudhary</h1>
+  <h3>Networking & Application Developer | Python Enthusiast</h3>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Kashi Chaudhary</h1>
+<!-- Floating animation -->
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
+<!-- ===================== TYPING EFFECT ===================== -->
 
 <div align="center">
-  
-<!-- 🧠 Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Networking+%26+Application+Developer;Python+Enthusiast;NEA+Intern;Always+Learning+Always+Building&center=true&width=500&height=45" />
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Networking+%26+Application+Developer;Python+Enthusiast;NEA+Intern;Always+Learning+Always+Building&center=true&width=500&height=45" />
 </div>
 
 <div align="center">
@@ -28,7 +47,7 @@
 
 🎓 Computer Science / IT Student  
 ⚡ **Intern at Nepal Electricity Authority (NEA)**  
-📡 Role: **Networking & Application Developer**  
+📡 **Networking & Application Developer**  
 🐍 Primary Language: **Python**  
 🇳🇵 Based in Nepal  
 
@@ -41,10 +60,10 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 ### 🔌 Nepal Electricity Authority (NEA)
 **Networking & Application Developer (Intern)**
 
-- Developed and supported **application-level systems**
-- Worked with **networking fundamentals & infrastructure**
+- Application development for electricity systems
+- Hands-on networking fundamentals & infrastructure
 - Designed **Smart Electricity Connection & Approval System**
-- Improved **efficiency, transparency & automation**
+- Improved efficiency, transparency & automation
 
 ---
 
@@ -68,21 +87,18 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 ## 🌟 Best / Pinned Repositories
 
 ### 📌 kashi_chaudhary
-🔹 Personal development repository  
-🔹 Python & application-based learning  
-🔹 Practice + experimentation  
+🔹 Personal development  
+🔹 Python & application practice  
 
 ### 📌 kashi-chaudhary2002
-🔹 Academic & internship-related projects  
-🔹 Smart systems & automation concepts  
-🔹 Clean, structured implementations  
+🔹 Academic & internship projects  
+🔹 Smart systems & automation  
 
 ### 📌 Your-Queen
-🔹 Creative / experimental project  
-🔹 UI-focused and logic-based development  
-🔹 Showcases problem-solving approach  
+🔹 Creative & experimental project  
+🔹 UI + logic focused  
 
-👉 **Pin these 3 repositories on your GitHub profile for best impact.**
+👉 **Pin these repositories on your profile**
 
 ---
 
@@ -99,10 +115,10 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 
 ## 🎯 Current Focus
 
-- 🐍 Advanced **Python development**
-- 🌐 Application & system design
-- 📡 Networking concepts
-- ⚡ Smart electricity & utility systems
+- 🐍 Advanced Python development  
+- 🌐 Application & system design  
+- 📡 Networking concepts  
+- ⚡ Smart electricity systems  
 
 ---
 
