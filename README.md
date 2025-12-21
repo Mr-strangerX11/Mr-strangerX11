@@ -1,34 +1,18 @@
-<!-- ===================== BANNER HEADER ===================== -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<div align="center" style="padding: 30px 0;">
+<div align="center">
 
-  <!-- Logo with glow + rounded + animation -->
   <img 
     src="./Untitled%20design.png" 
     alt="Kashi Logo"
     width="180"
-    style="
-      border-radius: 50%;
-      box-shadow: 0 0 25px rgba(88,166,255,0.6);
-      animation: float 3s ease-in-out infinite;
-    "
+    style="border-radius:50%; box-shadow:0 0 20px rgba(88,166,255,0.6);" 
   />
 
   <h1>Hi 👋, I'm Kashi Chaudhary</h1>
   <h3>Networking & Application Developer | Python Enthusiast</h3>
 
 </div>
-
-<!-- Floating animation -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
-<!-- ===================== TYPING EFFECT ===================== -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Networking+%26+Application+Developer;Python+Enthusiast;NEA+Intern;Always+Learning+Always+Building&center=true&width=500&height=45" />
@@ -37,7 +21,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mr-strangerX11&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/Mr-strangerX11?label=Followers&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/Mr-strangerX11?label=Followers&style=social)
 
 </div>
 
@@ -45,13 +29,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science / IT Student  
+🎓 **Computer Science / IT Student**  
 ⚡ **Intern at Nepal Electricity Authority (NEA)**  
 📡 **Networking & Application Developer**  
-🐍 Primary Language: **Python**  
+🐍 **Primary Programming Language: Python**  
 🇳🇵 Based in Nepal  
 
-I focus on **real-world problem solving**, **smart systems**, and **digital automation**.
+I am passionate about **real-world problem solving**, **smart systems**, and **digital automation**.
 
 ---
 
@@ -60,10 +44,10 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 ### 🔌 Nepal Electricity Authority (NEA)
 **Networking & Application Developer (Intern)**
 
-- Application development for electricity systems
-- Hands-on networking fundamentals & infrastructure
-- Designed **Smart Electricity Connection & Approval System**
-- Improved efficiency, transparency & automation
+- Worked on **application development** for electricity-related systems  
+- Gained hands-on experience with **networking fundamentals & infrastructure**
+- Designed a **Smart Electricity Connection & Approval System**
+- Focused on **automation, transparency, and efficiency**
 
 ---
 
@@ -77,7 +61,7 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -87,18 +71,18 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 ## 🌟 Best / Pinned Repositories
 
 ### 📌 kashi_chaudhary
-🔹 Personal development  
-🔹 Python & application practice  
+🔹 Personal development repository  
+🔹 Python & application-based practice  
 
 ### 📌 kashi-chaudhary2002
-🔹 Academic & internship projects  
+🔹 Academic & internship-related projects  
 🔹 Smart systems & automation  
 
 ### 📌 Your-Queen
 🔹 Creative & experimental project  
-🔹 UI + logic focused  
+🔹 UI-focused and logic-based work  
 
-👉 **Pin these repositories on your profile**
+👉 **Pin these 3 repositories on your GitHub profile for best impact.**
 
 ---
 
@@ -115,10 +99,10 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 
 ## 🎯 Current Focus
 
-- 🐍 Advanced Python development  
-- 🌐 Application & system design  
-- 📡 Networking concepts  
-- ⚡ Smart electricity systems  
+- 🐍 Advanced **Python programming**
+- 🌐 Application & system development
+- 📡 Networking concepts
+- ⚡ Smart electricity & utility management systems
 
 ---
 
@@ -133,6 +117,6 @@ I focus on **real-world problem solving**, **smart systems**, and **digital auto
 <div align="center">
 
 ⭐ *If you like my work, consider starring my repositories*  
-🚀 *Learning never stops.*
+🚀 *Always learning. Always building.*
 
 </div>
