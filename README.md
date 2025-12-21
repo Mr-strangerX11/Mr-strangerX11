@@ -2,7 +2,8 @@
 <!-- GitHub automatically adapts this README to light/dark mode -->
 
 <div align="center">
-  <img src="./Untitled design.png" alt="Kashi Logo" width="180"/>
+  <img src="<img width="1080" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/672a507c-2c8d-48cf-a93e-b5a81819184f" />
+" alt="Kashi Logo" width="180"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Kashi Chaudhary</h1>
