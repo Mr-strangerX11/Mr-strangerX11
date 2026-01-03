@@ -3,7 +3,7 @@
 <div align="center">
 
   <img 
-    src="./Untitled%20design.png" 
+    src="./logo.1.png" 
     alt="Kashi Logo"
     width="180"
     style="border-radius:50%; box-shadow:0 0 20px rgba(88,166,255,0.6);" 
